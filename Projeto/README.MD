@@ -76,6 +76,5 @@ Suporte para:
 
 ### 1️⃣ Clonar o repositório
 
-```bash
-git clone <url-do-repositorio>
 cd Projeto
+python main.py
